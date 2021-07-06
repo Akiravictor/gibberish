@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos", "Algoritmos\Algoritmos.csproj", "{5BE9D9D8-FB6D-4195-AA3B-E51DCAEA630D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{8F003B6F-89FF-4220-B586-A3E27CCCA02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BE9D9D8-FB6D-4195-AA3B-E51DCAEA630D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE9D9D8-FB6D-4195-AA3B-E51DCAEA630D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE9D9D8-FB6D-4195-AA3B-E51DCAEA630D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE9D9D8-FB6D-4195-AA3B-E51DCAEA630D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F003B6F-89FF-4220-B586-A3E27CCCA02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F003B6F-89FF-4220-B586-A3E27CCCA02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F003B6F-89FF-4220-B586-A3E27CCCA02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F003B6F-89FF-4220-B586-A3E27CCCA02C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0684AA-3581-484A-AD4C-D7480FE17AB3}
+	EndGlobalSection
+EndGlobal
