@@ -4,11 +4,4 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DataStructures\" />
-    <Folder Include="Searching\Array\" />
-    <Folder Include="Searching\Graph\" />
-    <Folder Include="Sorting\Array\" />
-  </ItemGroup>
-
 </Project>
